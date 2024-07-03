@@ -20,7 +20,7 @@ pip install pyfiglet
 ```
 #### to get this tool run this command line
 ```
-
+git clone https://github.com/Youssef530245/GETAX.git
 ```
 #### to run the tool run this command line 
 ```
