@@ -1,6 +1,6 @@
 # GETAX
 - Getax is a python tool created 100% using python programming language
-- when you inter the url of a website the tool give you all ip addresses that tha website work on it
+- when you enter the url of a website the tool give you all ip addresses that tha website work on it
 - example
     - url: https://www.tryhackme.com
     -  104.22.55.228
