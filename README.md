@@ -26,7 +26,7 @@ pip install pyfiglet
 ```
 python3 GETAX.py
 ```
-![GETAX]( "Getax.png")
+![GETAX](https://github.com/Youssef530245/GETAX/blob/main/Getax.png?raw=true "Getax.png")
 
 **I'M Eng: Youssef Mohamed 🌏🌏 would like to thank you for reading**
 
