@@ -10,7 +10,7 @@
 ### to run this tool you need to install some python libraries 
 > run this command in you terminal
 
-#### this library to provides tool for working with DNS (Domain Name System) in Python
+#### this library to provides tool for working with DNS (Domain Name System) in Python.
 ```
 pip install dnspython
 ```
