@@ -1,8 +1,8 @@
 # GETAX
-- Getax is a tool created using python programming language
+- Getax is a python tool created 100% using python programming language
 - when you inter the url of a website the tool give you all ip addresses that tha website work on it
 - example
-- - url: https://www.tryhackme.com
+    - url: https://www.tryhackme.com
     -  104.22.55.228
     -  104.22.54.228
     -  172.67.27.10
@@ -26,7 +26,7 @@ pip install pyfiglet
 ```
 python3 GETAX.py
 ```
-
+![GETAX]( "Getax.png")
 
 **I'M Eng: Youssef Mohamed 🌏🌏 would like to thank you for reading**
 
