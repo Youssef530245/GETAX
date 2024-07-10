@@ -1,5 +1,5 @@
 # GETAX
-- Getax is a python tool created 100% using python programming language
+- Getax is a python tool created 100% using python programming language can find ip addresses of any website.
 - when you enter the url of a website the tool give you all ip addresses that tha website work on it
 - example
     - url: https://www.tryhackme.com
